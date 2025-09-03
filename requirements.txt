@@ -1,7 +1,6 @@
 fastapi
-uvicorn
+uvicorn[standard]
 opencv-python
 mediapipe
-numpy
 pandas
-openpyxl
+numpy
